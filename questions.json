@@ -1,0 +1,427 @@
+[
+  {
+    "question": "In 'On the Swish and Roar', what does the 'roar' primarily symbolize?",
+    "answers": ["Triumph", "The crowd's energy", "The internal struggle of athletes", "Failure"],
+    "correct": 1
+  },
+  {
+    "question": "In '202 Checkmates', chess serves as a metaphor for:",
+    "answers": ["The importance of winning", "The complexity of familial relationships", "Intelligence over strength", "The unpredictability of life"],
+    "correct": 1
+  },
+  {
+    "question": "'A Piece of Steak' emphasizes which theme the most?",
+    "answers": ["The power of youth", "The inevitability of aging and decline", "The importance of wealth in sports", "The camaraderie of athletes"],
+    "correct": 1
+  },
+  {
+    "question": "What motivates 'King Richard' to train Venus and Serena Williams so rigorously?",
+    "answers": ["A desire to gain fame for himself", "His belief in their untapped potential", "Pressure from sponsors", "Competition with other tennis families"],
+    "correct": 1
+  },
+  {
+    "question": "In 'The Higher Pragmatism', O. Henry portrays the protagonist as:",
+    "answers": ["A cynical realist", "An idealist chasing dreams", "A struggling yet resourceful pragmatist", "A villainous figure"],
+    "correct": 2
+  },
+  {
+    "question": "In 'A Piece of Steak', what does the steak symbolize for Tom King?",
+    "answers": ["A reminder of his youth", "A source of strength", "A symbol of unattainable luxury", "A metaphor for his career's decline"],
+    "correct": 3
+  },
+  {
+    "question": "How does '202 Checkmates' depict the protagonist's growth through her chess matches?",
+    "answers": ["She learns the value of patience", "She develops a deeper connection with her father", "She masters the game and beats her father", "She gives up chess to pursue other interests"],
+    "correct": 1
+  },
+  {
+    "question": "The depiction of the crowd in 'On the Swish and Roar' serves to highlight:",
+    "answers": ["The overwhelming pressure on athletes", "The joy of shared experiences", "The indifference of spectators", "The isolation felt by competitors"],
+    "correct": 0
+  },
+  {
+    "question": "In 'King Richard', the Williams sisters' story emphasizes the importance of:",
+    "answers": ["Natural talent over hard work", "Strategic planning and perseverance", "Financial backing for success", "Eliminating distractions"],
+    "correct": 1
+  },
+  {
+    "question": "How does O. Henry use irony in 'The Higher Pragmatism' to create humor?",
+    "answers": ["By exaggerating the protagonist's failures", "By presenting an unexpected twist in the protagonist's situation", "By ridiculing the ambitions of others", "By focusing on the absurdity of romantic ideals"],
+    "correct": 1
+  },
+  {
+    "question": "In 'On the Swish and Roar', the 'swish' is most closely associated with:",
+    "answers": ["The fleeting nature of success", "A moment of clarity", "The sound of the net in basketball", "A player's internal focus"],
+    "correct": 2
+  },
+  {
+    "question": "What aspect of Tom King's character is most emphasized in 'A Piece of Steak'?",
+    "answers": ["His resilience despite challenges", "His envy of younger athletes", "His obsession with wealth", "His disinterest in family"],
+    "correct": 0
+  },
+  {
+    "question": "How does '202 Checkmates' use the game of chess to reflect the protagonist's relationship with her father?",
+    "answers": ["The game becomes a source of constant conflict", "It serves as a bridge to understanding and growth", "Chess highlights the father's lack of patience", "The game symbolizes their growing distance"],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following best describes Richard Williams's teaching style in 'King Richard'?",
+    "answers": ["Collaborative and gentle", "Demanding but supportive", "Detached and aloof", "Overbearing and critical"],
+    "correct": 1
+  },
+  {
+    "question": "O. Henry's 'The Higher Pragmatism' suggests that practicality in relationships is:",
+    "answers": ["A path to success", "A humorous misunderstanding", "The only way to achieve love", "A cause of inevitable failure"],
+    "correct": 1
+  },
+  {
+    "question": "The title 'A Piece of Steak' reflects:",
+    "answers": ["Tom King's craving for success", "The fleeting rewards of physical strength", "His dependence on material possessions", "A metaphor for moral dilemmas in sports"],
+    "correct": 1
+  },
+  {
+    "question": "In '202 Checkmates', the protagonist's father represents:",
+    "answers": ["The pressures of perfectionism", "A mentor and competitor", "The embodiment of unfulfilled dreams", "A symbol of distraction"],
+    "correct": 1
+  },
+  {
+    "question": "The term 'pragmatism' in O. Henry's 'The Higher Pragmatism' is best understood as:",
+    "answers": ["A commentary on realistic aspirations", "A humorous critique of romantic ideals", "A call to embrace calculated risks", "A rejection of practicality in favor of hope"],
+    "correct": 1
+  },
+  {
+    "question": "Which scene in 'King Richard' best highlights the theme of perseverance?",
+    "answers": ["Richard's confrontation with a rival coach", "Venus winning her first major match", "Serena practicing despite being overlooked", "The family enduring financial struggles"],
+    "correct": 2
+  },
+  {
+    "question": "The 'roar' in 'On the Swish and Roar' is portrayed as:",
+    "answers": ["A disorienting force", "A sign of collective celebration", "A challenge to individuality", "A reminder of failure"],
+    "correct": 1
+  },
+  {
+    "question": "In 'A Piece of Steak', what ultimately determines Tom King's defeat?",
+    "answers": ["His opponent's superior technique", "His lack of financial resources", "His declining physical condition", "A controversial referee decision"],
+    "correct": 2
+  },
+  {
+    "question": "The protagonist in '202 Checkmates' realizes that:",
+    "answers": ["Chess is not as important as family", "Winning is the only way to earn respect", "Her father has been holding back his skills", "Chess mirrors the complexities of life"],
+    "correct": 3
+  },
+  {
+    "question": "How does Richard Williams handle criticism in 'King Richard'?",
+    "answers": ["He ignores it completely", "He uses it to fuel his determination", "He changes his coaching methods", "He admits his mistakes and adjusts"],
+    "correct": 1
+  },
+  {
+    "question": "The theme of aging in 'A Piece of Steak' is reflected in:",
+    "answers": ["Tom King's inability to train", "The younger boxer's effortless movement", "The nostalgic tone of the narrator", "The emphasis on diet and nutrition"],
+    "correct": 1
+  },
+  {
+    "question": "What role does the mother play in '202 Checkmates'?",
+    "answers": ["A passive observer", "A voice of reason", "A symbol of childhood innocence", "A competitor to the father's influence"],
+    "correct": 1
+  },
+  {
+    "question": "How does Tom King's financial situation impact his performance in 'A Piece of Steak'?",
+    "answers": ["He fights harder to earn a prize", "His lack of proper nutrition weakens him", "He refuses to participate", "He gains support from a wealthy sponsor"],
+    "correct": 1
+  },
+  {
+    "question": "The protagonist's chess ability in '202 Checkmates' primarily reflects:",
+    "answers": ["A natural talent without effort", "A struggle to understand her father", "A rejection of family expectations", "The benefits of rigorous practice"],
+    "correct": 3
+  },
+  {
+    "question": "What lesson does 'King Richard' emphasize regarding success?",
+    "answers": ["It comes only through talent", "Hard work and planning are essential", "Winning is everything", "Family sacrifices are not necessary"],
+    "correct": 1
+  },
+  {
+    "question": "The humorous tone in 'The Higher Pragmatism' helps to:",
+    "answers": ["Undermine the protagonist's decisions", "Highlight the absurdity of societal expectations", "Emphasize the seriousness of love", "Show the flaws in logical thinking"],
+    "correct": 1
+  },
+  {
+    "question": "How does 'On the Swish and Roar' contrast the individual experience with the collective experience in sports?",
+    "answers": ["By depicting the athlete's solitude amid noise", "By showing a complete rejection of the crowd", "By making the protagonist seek attention", "By focusing only on the audience"],
+    "correct": 0
+  },
+  {
+    "question": "What ultimately defines Tom King's career in 'A Piece of Steak'?",
+    "answers": ["His victories in youth", "His perseverance despite loss", "His wealth and fame", "His ability to adapt"],
+    "correct": 1
+  },
+  {
+    "question": "The chess matches in '202 Checkmates' symbolize:",
+    "answers": ["The daughter's struggle for independence", "The randomness of fate", "The father's desire to prove superiority", "The impact of societal pressure"],
+    "correct": 0
+  },
+  {
+    "question": "In 'King Richard', why is Richard's unorthodox coaching controversial?",
+    "answers": ["He ignores professional advice", "He is overly aggressive", "He refuses to let his daughters compete early", "He relies solely on corporate sponsorship"],
+    "correct": 2
+  },
+  {
+    "question": "The 'pragmatism' in 'The Higher Pragmatism' suggests that love and practicality are:",
+    "answers": ["Opposing forces", "Compatible with strategic thinking", "Completely unpredictable", "Limited to the wealthy"],
+    "correct": 1
+  },
+  {
+    "question": "In 'On the Swish and Roar', the climax of the story focuses on:",
+    "answers": ["The protagonist's key moment of performance", "The overwhelming presence of the crowd", "The loss of motivation", "A surprising act of defiance"],
+    "correct": 0
+  },
+  {
+    "question": "What theme unites 'A Piece of Steak' and '202 Checkmates'?",
+    "answers": ["The importance of youth in competition", "The emotional toll of sports", "The balance between strategy and physicality", "The role of luck in winning"],
+    "correct": 2
+  },
+  {
+    "question": "How does Richard Williams ensure his daughters' success in 'King Richard'?",
+    "answers": ["By pushing them into early competition", "By strictly controlling their training", "By focusing on long-term development", "By hiring the best available coach"],
+    "correct": 2
+  },
+  {
+    "question": "The humor in 'The Higher Pragmatism' is most evident in:",
+    "answers": ["The protagonist's exaggerated logic", "The failure of the romantic gesture", "The irony of the final decision", "The witty dialogue between characters"],
+    "correct": 2
+  },
+  {
+    "question": "What does the 'swish' represent in 'On the Swish and Roar'?",
+    "answers": ["The fleeting nature of success", "A harsh reality check", "The emptiness of victory", "The pressure to perform"],
+    "correct": 0
+  },
+  {
+    "question": "How does 'A Piece of Steak' comment on aging athletes?",
+    "answers": ["By portraying them as foolish", "By showing their resilience", "By emphasizing their nostalgia", "By romanticizing their past victories"],
+    "correct": 1
+  },
+  {
+    "question": "How does the protagonist's father in '202 Checkmates' react to losing?",
+    "answers": ["He accepts it with grace", "He dismisses it as luck", "He becomes more competitive", "He refuses to play again"],
+    "correct": 2
+  },
+  {
+    "question": "What does 'King Richard' suggest about traditional coaching methods?",
+    "answers": ["They can be improved with personal investment", "They are outdated and ineffective", "They should be strictly followed", "They are the only way to succeed"],
+    "correct": 0
+  },
+  {
+    "question": "How does 'The Higher Pragmatism' reflect O. Henry's style?",
+    "answers": ["A twist ending that subverts expectations", "A focus on dramatic romance", "A detailed exploration of morality", "A critique of the upper class"],
+    "correct": 0
+  },
+  {
+    "question": "How does 'On the Swish and Roar' depict the emotional weight of competition?",
+    "answers": ["Through detailed inner monologue", "By contrasting winning and losing emotions", "By focusing on audience reactions", "By emphasizing silence over noise"],
+    "correct": 0
+  },
+  {
+    "question": "What factor contributes to Tom King's struggles in 'A Piece of Steak'?",
+    "answers": ["Poor training habits", "The realities of aging", "An unfair referee decision", "A lack of motivation"],
+    "correct": 1
+  },
+  {
+    "question": "In '202 Checkmates', the protagonist's changing attitude toward chess represents:",
+    "answers": ["Her growing independence", "Her father's control over her future", "The game's increasing difficulty", "Her inability to win"],
+    "correct": 0
+  },
+  {
+    "question": "What lesson does 'King Richard' teach about family support?",
+    "answers": ["It is essential for success", "It often creates too much pressure", "It can be harmful in excess", "It is secondary to talent"],
+    "correct": 0
+  },
+  {
+    "question": "How does 'The Higher Pragmatism' challenge societal norms?",
+    "answers": ["By mocking traditional romance", "By showing the flaws in practicality", "By questioning social class dynamics", "By ridiculing personal ambition"],
+    "correct": 0
+  },
+  {
+    "question": "What makes 'On the Swish and Roar' unique among sports narratives?",
+    "answers": ["Its emphasis on internal experiences", "Its focus on winning at all costs", "Its use of multiple perspectives", "Its lack of competition scenes"],
+    "correct": 0
+  },
+  {
+    "question": "What does 'King Richard' suggest about defying expectations?",
+    "answers": ["It is crucial for groundbreaking success", "It often leads to failure", "It requires complete isolation", "It is best avoided"],
+    "correct": 0
+  },
+  {
+    "question": "Where does this book take place?",
+    "answers": ["Midland, Texas", "Odessa, Texas", "Houston, Texas", "San Antonio, Texas"],
+    "correct": 1
+  },
+  {
+    "question": "Permian's football team was named after which animal?",
+    "answers": ["Lions", "Panthers", "Tigers", "Eagles"],
+    "correct": 1
+  },
+  {
+    "question": "Which year does the author follow Permian's team in?",
+    "answers": ["1990", "1988", "1985", "1998"],
+    "correct": 1
+  },
+  {
+    "question": "Mike Winchell started playing which sport as a child?",
+    "answers": ["Football", "Fishing", "Baseball", "Basketball"],
+    "correct": 2
+  },
+  {
+    "question": "Mike was ashamed to let people do what?",
+    "answers": ["Help him in football", "Help him in baseball", "Enter his home", "Talk about his father"],
+    "correct": 2
+  },
+  {
+    "question": "Charlie Billingsley had a scholarship to which university?",
+    "answers": ["University of Texas", "Texas A and M", "University of Oklahoma", "Permian"],
+    "correct": 1
+  },
+  {
+    "question": "How does his description of the Permian Panthers' football stadium (in the preface) contrast with the way Bissinger characterizes the rest of the town?",
+    "answers": ["It matches the rest of the town", "The stadium seems to be alive in comparison", "The town is exciting like the stadium", "The stadium seems depressing"],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is NOT a character the narrator is following in the story?",
+    "answers": ["Mike Winchell", "Charlie Billingsley", "H.G. Bissinger", "Don Billingsley"],
+    "correct": 2
+  },
+  {
+    "question": "Bissinger sees his year in Odessa as a chance to learn not just about high school football but also…",
+    "answers": ["Small town America", "Family relationships", "Oil", "Baseball"],
+    "correct": 0
+  },
+  {
+    "question": "What effect did the death of his father (Billy Winchell) have on Mike Winchell?",
+    "answers": ["He starts to lose confidence", "He moves out of Odessa", "He gives up baseball", "He has a mental breakdown"],
+    "correct": 0
+  },
+  {
+    "question": "Charlie Billingsley says, 'I got him to live through, and that's something special' (pg.84). What do you think the effect on Don is of his father trying to 'live through' him?",
+    "answers": ["He feels loved", "He feels happy", "He feels pressure", "He feels forgotten"],
+    "correct": 2
+  },
+  {
+    "question": "What can you infer about what Don represents to Charlie Billingsley, based on what Charlie sees on the field? (pg.79)",
+    "answers": ["A version of his former self", "A son playing a meaningless sport", "A mistake from his youth", "A challenger to his fame"],
+    "correct": 0
+  },
+  {
+    "question": "The following analysis would best represent which main idea? Joe Bill. Mike's brother. tells Bissinger that Mike is 'that kind of kid. quiet. Loyal. unfailingly_steady and Bissinger reports. Typically, he (Mike didn't worry_about himself. He worried about his grandmother.'",
+    "answers": ["Identity", "Expectation of others", "Expectation of children", "Expectations of self"],
+    "correct": 0
+  },
+  {
+    "question": "In the context of the sentence, what does the word ORNERY most likely mean on page 79? 'There were some kids who came out of Odessa ornery in the same way that a rodeo bull with a rope wrapped around his balls is ornery' (p.79).",
+    "answers": ["Happy", "Stubborn", "Angry", "Confused"],
+    "correct": 2
+  },
+  {
+    "question": "How might your understanding of the relationship between Charlie and Don be different if the word 'through' was replaced with 'for' in the last sentence of paragraph three (p. 84)?",
+    "answers": ["It would create more of a loving bond between the two", "It wouldn't change the meaning between the two", "It would create a brotherly bond between the two", "It would create a more competitive relationship"],
+    "correct": 0
+  },
+  {
+    "question": "In the context of the sentence, what does the word POISE most likely mean on page 78-79? 'Winchell looked good, setting up with poise in the pocket, throwing nicely, no rushed throws skittering off the hand' (pg. 78-79).",
+    "answers": ["Good Form", "Bad Form", "Good throwing ability", "Bad throwing ability"],
+    "correct": 0
+  },
+  {
+    "question": "Which piece of evidence showing what the Permian team represents to the community best fits in the space below: The team represents the community itself. Bissinger describes the fans 'and 'yelling the war cry….. in frantic unison' (p. 78), demonstrating their enthusiastic support for the team and their hope that the team will succeed.",
+    "answers": ["'squealing in delight' (pg.78)", "'MO-Jo! MO-JO! MO-JO!' (pg.78)", "'whine about it' (pg. 78)", "'room sat in silence' (pg.78)"],
+    "correct": 0
+  },
+  {
+    "question": "Which piece of evidence showing how 'pressure' influences Mike's football game BEST fills in the space below. Mike's athletic ability is directly influenced by the level of pressure he is under: 'when the pressure was off….. it was hard to find a better quarterback' but ' - * (p. 76).",
+    "answers": ["when the pressure was on ... something seemed to unravel inside him' (p.76)", "'be careful... get the right touch. watch the wrist' (p. 76)", "'He was a senior now and had had a whole year to process the feeling' (p. 76)", "'twenty thousand fans expecting the world from him' (p. 76)"],
+    "correct": 0
+  },
+  {
+    "question": "Who is the Narrator in Friday Night Lights?",
+    "answers": ["Mike Winchell", "Don Billingsly", "Charlie Billingsly", "H.G Bissinger"],
+    "correct": 3
+  },
+  {
+    "question": "In 1990, 'The Day That Changed Everything' featured an historic N.J. high school football playoff game between",
+    "answers": ["Montclair HS vs. Ramapo HS", "Montclair HS vs. Rockaway HS", "Montclair HS vs. Randolph HS", "Montclair HS vs.Rumson HS"],
+    "correct": 2
+  },
+  {
+    "question": "On the medal stand, Tommy Smith and John Carlos wore.",
+    "answers": ["Black Gloves", "No shoes", "Beads", "All of the above"],
+    "correct": 3
+  },
+  {
+    "question": "In what event did Eroseanna Robinson win at the AAU National Championships earning her a spot on the National Team?",
+    "answers": ["long jump", "triple jump", "high jump", "pole vault"],
+    "correct": 2
+  },
+  {
+    "question": "How did Cap Anson finally 'get his way,' despite initially being rebuffed?",
+    "answers": ["Gentleman's Agreement", "Allowed to own a team", "Allowed to own a team and play", "None of the above"],
+    "correct": 0
+  },
+  {
+    "question": "What labor issue led to the first Major League Baseball strike?",
+    "answers": ["Salary", "Number of games in a season", "Pension Benefits", "Travel Accommodations"],
+    "correct": 0
+  },
+  {
+    "question": "How many years after the initial protest did the 'Bates 7' get honored for their courage?",
+    "answers": ["60", "50", "40", "30"],
+    "correct": 0
+  },
+  {
+    "question": "What was the origin of Paul Robeson's 'wound that never healed'?",
+    "answers": ["Coach's decision to not play him", "Racism experienced from teammates", "Being called the n-word by opponents", "None of the above"],
+    "correct": 0
+  },
+  {
+    "question": "What 'work' was Jesse Owens reduced to doing for income upon returning to the U.S. after the Olympics in Berlin, Germany?",
+    "answers": ["selling newspapers", "shoeshine stand", "street cleaner", "racing horses"],
+    "correct": 2
+  },
+  {
+    "question": "Who started the Women's Tennis Association?",
+    "answers": ["Althea Gibson", "Chris Everett", "Lloyd", "Billie Jean King"],
+    "correct": 3
+  },
+  {
+    "question": "Katherine V. Switzer was the first woman to compete in what event?",
+    "answers": ["Boston Marathon", "New York Marathon", "U.S. Open", "None of the above"],
+    "correct": 0
+  },
+  {
+    "question": "What athlete was stripped of his championship title for his refusal to fight in the Vietnam War?",
+    "answers": ["Kareem Abdul-Jabor", "Muhammad Ali", "Jim Brown", "Bill Russell"],
+    "correct": 1
+  },
+  {
+    "question": "Former Georgetown coach John Thompson once protested a game due to an unfair NCAA rule on",
+    "answers": ["supporting poor players", "academic eligibility rule", "dunking", "limiting scholarships to Black players"],
+    "correct": 1
+  },
+  {
+    "question": "What punishment did Mahmoud Abdul-Rauf and his family suffer after his NBA anthem protest?",
+    "answers": ["He was shot at while entering his home", "He was targeted by arsonists who burned down his home", "His car was firebombed by local racists", "His children's safety was threatened at school"],
+    "correct": 1
+  },
+  {
+    "question": "Long before he became a famous actor, singer and firebrand, Robeson was trying out for the football team.",
+    "answers": ["Rutgers", "Notre Dame", "Yale", "None of the above"],
+    "correct": 0
+  },
+  {
+    "question": "Black South Africans from the Xhosa tribe called Arthur Ashe 'Sipho,' which means what?",
+    "answers": ["Gift from the heavens", "Gift from the ancestors", "Gift from God", "Gift from the Children"],
+    "correct": 2
+  },
+  {
+    "question": "What player did Cap Anson insist the Toledo Blue Stockings not play against his team?",
+    "answers": ["Paul Robeson", "Moses Fleetwood Walker", "Charlie Morton", "None of the above"],
+    "correct": 1
+  }
+]
