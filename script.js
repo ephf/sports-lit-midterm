@@ -1,4 +1,4 @@
-fetch("/questions.json").then(res => res.json()).then(questions => {
+fetch("questions.json").then(res => res.json()).then(questions => {
     info.querySelector("div").replaceWith((window.gen = gen(questions)).next().value);
 });
 
